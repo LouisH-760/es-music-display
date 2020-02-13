@@ -1,0 +1,29 @@
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    word-wrap: break-word;
+    max-width: 40ch;
+}
+
+tr:hover{
+    background-color: lightgray;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.green{
+    background-color: darkgreen;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.red{
+    background-color: red;
+}
+
+
+/*# sourceMappingURL=/main.af46ece4.css.map */

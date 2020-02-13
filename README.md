@@ -5,3 +5,5 @@
 - go into `display`
 - open `index.html` in a browser
 - paste the output of `parser.py` in the textbox and click the button to get a table displayed
+
+Original es-music: [github](https://github.com/roboyoshi/es-music)
